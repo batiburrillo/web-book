@@ -40,7 +40,7 @@
     "fs-extra": "^5.0.0",
     "highlight.js": "latest",
     "html-minifier": "^3.5.19",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "jsdom": "^11.11.0",
     "json-stringify": "^1.0.0",
     "less": "^3.7.1",
